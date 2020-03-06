@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\srf\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2a949a79050407e85ee4676de3f73d274dc5e33f">
+        <dex dex="E:\srf\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f1504e43a20ef48691fae0d29a3d2657f8c67ca8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\srf\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\srf\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_10593481944b210b001bf02d873ee2f1cdba2524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\srf\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\srf\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_9d418930c688f1ab9e471725a9171cab61f58819.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\srf\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\srf\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ef37904b01f6b412e42aca5cd560492489045a2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\srf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\srf\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_a9fb96b98c05d0a386675298c4eee03122f7a1c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\srf\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\srf\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_d6e77dbc366bfb2bc23f982f311ad2c268815795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\srf\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\srf\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_df7ce96e1fb048b6c2be5d7ed24db02a871509b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\srf\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d61c9e1819f856f38c6f7d722401f6bd8af9e62f">
+        <dex dex="E:\srf\app\build\intermediates\pre-dexed\debug\instant-run_3a4713d33bec06e8bcf29ed9371735388bc0be17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\srf\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\srf\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_9bab279a3ed2ddad9bd05fff8de23b6a03b9bd7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\srf\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\srf\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_b0c01e1cc3313fb2bf37d9da89d73490b1d816ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\srf\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\srf\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_bc4ad59e9f7d1da6b938d35da9ec848fb107b177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\srf\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\srf\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_9147777464bb7d12e2680132db7c39afee1a2144.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\srf\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_f0edfc4b6c205081d72068144ed45715cd08ad83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\srf\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\srf\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d48891e85ceea00066f7b07317a90ab57d293186.jar" />
+    </item>
+
+</items>
